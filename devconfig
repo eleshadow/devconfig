@@ -1,0 +1,7 @@
+mac     00:03:0f:02:03:01
+defdev  eth1
+vlan1   eth1 trunk
+vlan2   eth0 access
+vlan3   eth0 lalalal
+hostip  192.168.56.101
+port1   eth0
